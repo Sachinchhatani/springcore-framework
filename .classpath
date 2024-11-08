@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="exam/src/main/java"/>
+	<classpathentry kind="src" path="exam/src/test/java"/>
+	<classpathentry kind="src" path="jdbc/src/main/java"/>
+	<classpathentry kind="src" path="jdbc/src/test/java"/>
+	<classpathentry kind="src" path="midsem/src/main/java"/>
+	<classpathentry kind="src" path="midsem/src/test/java"/>
+	<classpathentry kind="src" path="practice/src/main/java"/>
+	<classpathentry kind="src" path="practice/src/test/java"/>
+	<classpathentry kind="src" path="SpringCore/src/main/java"/>
+	<classpathentry kind="src" path="SpringCore/src/test/java"/>
+	<classpathentry kind="src" path="springjdbc2/src/main/java"/>
+	<classpathentry kind="src" path="springjdbc2/src/test/java"/>
+	<classpathentry kind="output" path="SpringCore/target/classes"/>
+</classpath>
